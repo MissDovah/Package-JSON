@@ -1,15 +1,16 @@
 {
-	"name": "fcc-learn-npm-package-json",
+    "name": "fcc-learn-npm-package-json",
     "author": "Monica R White",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+    "description": "A project that does something awesome",
+    "dependencies": {
+        "express": "^4.14.0"
+    },
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://idontknow/todo.git"
+    }
 }
